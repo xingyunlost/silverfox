@@ -11,7 +11,7 @@ html {
 
 body {
   font-family: "Roboto", sans-serif;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 300;
   line-height: 1.5;
   color: #7a7e89;
@@ -301,7 +301,7 @@ p {
 }
 #fh5co-header.navbar-fixed-top #fh5co-logo a {
   font-family: "Roboto Slab", sans-serif;
-  font-size: 30px;
+  font-size: 35px;
   color: #000;
 }
 #fh5co-header.navbar-fixed-top #fh5co-main-nav ul li a {
